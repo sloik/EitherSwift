@@ -1,3 +1,6 @@
+![Main](https://github.com/sloik/EitherSwift/actions/workflows/swift.yml/badge.svg?branch=main)
+![Nightly](https://github.com/sloik/EitherSwift/actions/workflows/nightly.yml/badge.svg)
+
 # Either 
 
 Either is one of those types that you already know in Swift but it's specialized in some values. 
